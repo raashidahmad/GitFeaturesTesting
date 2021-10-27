@@ -6,7 +6,7 @@ namespace GitFeaturesTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("These are the changes in version1. I have updated it more. Some more text");
         }
     }
 }
